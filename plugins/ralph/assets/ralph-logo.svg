@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 256" role="img" aria-label="Ralph logo">
+  <rect width="512" height="256" rx="36" fill="#FFF7E8"/>
+  <rect x="16" y="16" width="480" height="224" rx="28" fill="#F4A261"/>
+  <circle cx="120" cy="128" r="64" fill="#FFF7E8"/>
+  <circle cx="96" cy="118" r="10" fill="#1F2937"/>
+  <circle cx="144" cy="118" r="10" fill="#1F2937"/>
+  <path d="M88 157c11 11 53 11 64 0" fill="none" stroke="#1F2937" stroke-linecap="round" stroke-width="10"/>
+  <path d="M74 80l16-14M166 80l-16-14" fill="none" stroke="#C96C28" stroke-linecap="round" stroke-width="10"/>
+  <text x="220" y="114" fill="#1F2937" font-family="Menlo, Monaco, Consolas, monospace" font-size="40" font-weight="700">Ralph</text>
+  <text x="220" y="160" fill="#4B5563" font-family="Menlo, Monaco, Consolas, monospace" font-size="22">Iterative Codex Loops</text>
+</svg>
+

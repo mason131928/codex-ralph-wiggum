@@ -1,0 +1,47 @@
+{
+  "name": "ralph",
+  "version": "1.2.0",
+  "description": "Autonomous Codex loops, multi-round campaign automation, and local observability surfaces backed by an external codex exec state machine, with resumable state, cancellation, progress tracking, dashboard UI, and verification gates.",
+  "author": {
+    "name": "Mason + Codex",
+    "email": "local-only@example.com",
+    "url": "https://github.com/mason131928/codex-ralph-wiggum"
+  },
+  "homepage": "https://github.com/mason131928/codex-ralph-wiggum",
+  "repository": "https://github.com/mason131928/codex-ralph-wiggum",
+  "license": "MIT",
+  "keywords": [
+    "codex",
+    "agent-loop",
+    "automation",
+    "iteration",
+    "ralph"
+  ],
+  "interface": {
+    "displayName": "Ralph",
+    "shortDescription": "Run repeatable Codex loops with an external stateful runner, campaign automation, and a live local dashboard",
+    "longDescription": "Ralph wraps codex exec in an external, resumable state machine with stable prompts, iteration handoff files, completion promises, verification gates, cancellation, status inspection, terminal watch mode, multi-round campaigns, and a live local dashboard.",
+    "developerName": "Local Plugin",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/mason131928/codex-ralph-wiggum",
+    "privacyPolicyURL": "https://github.com/mason131928/codex-ralph-wiggum",
+    "termsOfServiceURL": "https://github.com/mason131928/codex-ralph-wiggum",
+    "defaultPrompt": [
+      "Start a Ralph loop to get tests passing",
+      "Resume the active Ralph loop",
+      "Show the current Ralph loop status",
+      "Watch the active Ralph loop in the terminal",
+      "Start a Ralph campaign that keeps going until the roadmap boundaries are cleared",
+      "Open the Ralph dashboard for the current workspace"
+    ],
+    "brandColor": "#F4A261",
+    "composerIcon": "./assets/ralph-small.svg",
+    "logo": "./assets/ralph-logo.svg",
+    "screenshots": []
+  }
+}

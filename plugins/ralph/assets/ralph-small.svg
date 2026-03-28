@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Ralph icon">
+  <rect width="128" height="128" rx="24" fill="#F4A261"/>
+  <circle cx="64" cy="64" r="40" fill="#FFF7E8"/>
+  <circle cx="49" cy="58" r="7" fill="#1F2937"/>
+  <circle cx="79" cy="58" r="7" fill="#1F2937"/>
+  <path d="M44 83c7 7 33 7 40 0" fill="none" stroke="#1F2937" stroke-linecap="round" stroke-width="8"/>
+  <path d="M36 35l11-10M92 35 81 25" fill="none" stroke="#C96C28" stroke-linecap="round" stroke-width="8"/>
+</svg>
+
